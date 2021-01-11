@@ -12,4 +12,6 @@ Some more dummy text, 25mins until lunch!
 
 ![](IMG_0069.JPG)
 
+when is NoSQL? - day 2, when Reshma comes back!
+
 
