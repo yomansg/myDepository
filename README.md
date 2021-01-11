@@ -13,3 +13,4 @@ Some more dummy text, 25mins until lunch!
 ![](IMG_0069.JPG)
 
 
+Nice view! What's the land across the sea?
