@@ -10,5 +10,6 @@ Some more dummy text, 25mins until lunch!
 * docker - if time permits
 * handout reading assignments homework
 
+![](IMG_0069.JPG)
 
 
