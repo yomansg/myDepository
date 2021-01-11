@@ -15,3 +15,4 @@ Some more dummy text, 25mins until lunch!
 when is NoSQL? - day 2, when Reshma comes back!
 
 
+Nice view! What's the land across the sea?
