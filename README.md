@@ -4,10 +4,11 @@
 
 Some more dummy text, 25mins until lunch!
 
-## Here is a list of things we will do later today:
+### Here is a list of things we will do later today:
 * more git
 * cloud with Gilbert
 * docker - if time permits
+* handout reading assignments homework
 
 
 
