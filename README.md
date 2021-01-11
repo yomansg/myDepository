@@ -16,3 +16,5 @@ when is NoSQL? - day 2, when Reshma comes back!
 
 
 Nice view! What's the land across the sea?
+
+It is Pulau Ubin, a good view from high floor unit at Ripple Bay
